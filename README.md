@@ -2,17 +2,16 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=FFFFFF&center=false&vCenter=true&random=false&width=524&lines=+Software+Engeneer+|+Back-end+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=FFFFFF&center=false&vCenter=true&random=false&width=524&lines=+Desenvolvedor+Python+Back-end+" alt="Typing SVG">
   </a>
 </div>
 
- 
-## About me 👨‍💻
-I'm studying 📚 information systems 💻 and learning about cloud computing, data structures, and databases. I enjoy programming 🖥️ and am dedicated to my projects and work 🧑‍💼. I'm looking for jobs in the back-end area 😍; my primary programming language is Python 🐍.
+## Sobre mim 👨‍💻
+Estou cursando Sistemas de Informação e focando em desenvolvimento back-end com Python. Gosto de programar e sou dedicado aos meus projetos e trabalhos. Estou em busca de oportunidades na área de back-end e de análise dados com Python, domino a sintaxe básica do Python e tenho experiencia com Flask e Django; além da minha linguagem primaria citada anteriormente também tenho um domínio básico de HTML,CSS, MySQL, SQLite. Tenho um bom domínio de git e utilizo  diariamente em meus projetos, além disso tenho experiencia básica com Linux (de base Ubuntu).
 
 ---
  
- ## Languages 🖥️
+ ## Linguagens 🖥️
 
 <div style="display: inline_block">
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -28,7 +27,7 @@ I'm studying 📚 information systems 💻 and learning about cloud computing, d
 
 ---
 
-## Libraries and Frameworks 👷🏗️
+## Bibliotecas e Frameworks 👷🏗️
 <img align="left" alt="numpy" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"/>
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"/>
 <img align="left" alt="selenium" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png"/>
@@ -38,7 +37,7 @@ I'm studying 📚 information systems 💻 and learning about cloud computing, d
 
 ---
 
-## Tools 🧰🔧
+## Ferramentas 🧰🔧
 <img align="left" alt="vs code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align= "left" alt = "intellij" title = "IntelliJ" width = "30px" style = "padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
@@ -48,7 +47,7 @@ I'm studying 📚 information systems 💻 and learning about cloud computing, d
 
 ---
 
-## Social networks📱
+## Redes Sociais 📱
 <div style="display: inline_block"> 
 <a href="mailto:g.caricchio.si@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
@@ -58,7 +57,4 @@ I'm studying 📚 information systems 💻 and learning about cloud computing, d
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
  </a>
  
- <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=g-caricchio&style=flat-square&color=blue" align="left" alt="Visitas no perfil"/>
-</p>
 </div>
