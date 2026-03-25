@@ -39,18 +39,3 @@ Estou cursando Sistemas de Informação e focando em desenvolvimento back-end co
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </br>
-
-
----
-
-## Redes Sociais 📱
-<div style="display: inline_block"> 
-<a href="mailto:g.caricchio.si@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
-</a>
- 
- <a href="https://br.linkedin.com/in/gabriel-caricchio-7917a7387" target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
- </a>
- 
-</div>
