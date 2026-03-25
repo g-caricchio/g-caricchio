@@ -1,4 +1,4 @@
- ## Gabriel Caricchio 🧔‍♂️
+ ## Gabriel Arruda Caricchio 🧔‍♂️
 
 <div align="left">
   <a href="https://git.io/typing-svg">
