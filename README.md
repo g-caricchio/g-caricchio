@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=FFFFFF&center=false&vCenter=true&random=false&width=524&lines=+Desenvolvedor+Python+Back-end+/+Analista+de+Dados" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=FFFFFF&center=false&vCenter=true&random=false&width=524&lines=+Desenvolvedor+Python+Back-end+" alt="Typing SVG">
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 Estou cursando Sistemas de Informação e focando em desenvolvimento back-end com Python. Gosto de programar e sou dedicado aos meus projetos e trabalhos. Estou em busca de oportunidades na área de back-end e de análise dados com Python, domino a sintaxe básica do Python e tenho experiencia com Flask e Django; além da minha linguagem primaria citada anteriormente também tenho um domínio básico de HTML,CSS, MySQL, SQLite. Tenho um bom domínio de git e utilizo  diariamente em meus projetos, além disso tenho experiencia básica com Linux (de base Ubuntu).
 
 ---
- 
+ <br>
  ## Linguagens 🖥️
 
 <div style="display: inline_block">
