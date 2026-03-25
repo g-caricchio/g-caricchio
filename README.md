@@ -10,7 +10,6 @@
 Estou cursando Sistemas de Informação e focando em desenvolvimento back-end com Python. Gosto de programar e sou dedicado aos meus projetos e trabalhos. Estou em busca de oportunidades na área de back-end e de análise dados com Python, domino a sintaxe básica do Python e tenho experiencia com Flask e Django; além da minha linguagem primaria citada anteriormente também tenho um domínio básico de HTML,CSS, MySQL, SQLite. Tenho um bom domínio de git e utilizo diariamente em meus projetos, além disso tenho experiencia básica com Linux (de base Ubuntu).
 
 ---
- <br>
  ## Linguagens 🖥️
 
 <div style="display: inline_block">
